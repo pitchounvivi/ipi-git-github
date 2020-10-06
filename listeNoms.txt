@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-vivi
-tata 
-toto
-PLOUF
-=======
 vivi NG
 tata TATA
 toto TOTO
->>>>>>> 8613ac12a7275ab3521a754a1705a639008678bb
+PLOUF
+
